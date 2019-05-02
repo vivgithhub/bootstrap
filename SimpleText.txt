@@ -1,2 +1,6 @@
 This is a test file
+<<<<<<< HEAD
 this line is added from local
+=======
+This line is added from github
+>>>>>>> b39bc9d96e44ef00b880df7dc0e11b7f7c787f75
