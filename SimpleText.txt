@@ -4,3 +4,6 @@ this line is added from local
 =======
 This line is added from github
 >>>>>>> b39bc9d96e44ef00b880df7dc0e11b7f7c787f75
+
+Adding to check comparison with github repository
+line added for compare staging area with github
