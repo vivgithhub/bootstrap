@@ -9,3 +9,4 @@ Adding to check comparison with github repository
 line added for compare staging area with github
 
 Today's date is May 9th
+Adding this text from master branch
