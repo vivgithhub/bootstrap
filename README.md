@@ -36,7 +36,7 @@ We thank you for all your contributions over the years and hope you've enjoyed u
 # Demo
 
 Do you want to see directives in action? Visit https://angular-ui.github.io/bootstrap/!
-
+Addition of this line to test rebase
 # Angular 2
 
 Are you interested in Angular 2? We are on our way! Check out [ng-bootstrap](https://github.com/ui-bootstrap/core).
