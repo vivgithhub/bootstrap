@@ -13,3 +13,5 @@ it's not a sunny day
 Team:vivek
 Adding git rebase and git advanced
 New line added to test merge
+
+New changes in simple/master to test conflict with rebase
