@@ -18,3 +18,5 @@ New changes in simple/master to test conflict with rebase
 devops engineer level3
 
 Adding this on 05/22 to test rebase with github
+
+Adding 1 line for git tag compare 1
