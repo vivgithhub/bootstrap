@@ -1,2 +1,3 @@
 Simple file being tested for git stasiisdh
 some modification is being done to test git tagging
+this line is added for git compare 2
